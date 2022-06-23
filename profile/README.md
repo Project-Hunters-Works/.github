@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://project-hunters-works.github.io/Portfolio/"><img alt="logo" src="https://github.com/Project-Hunters-Works/Portfolio/blob/main/images/project_hunters_logo.png?raw=true" width=280></a>
+    <a href="https://project-hunters-works.github.io/Portfolio/"><img alt="logo" src="https://github.com/Project-Hunters-Works/.github/blob/main/project_hunters_logo-readme.png?raw=true" width=500></a>
  </div>
  
  # About Us :earth_americas:
